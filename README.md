@@ -5,6 +5,6 @@ An experimental initiative to feature and display key player performance data wh
 
 ## Featues
 
-- ** Player name search **
-- ** Season long stats **
-- ** Individual player information **
+- **Player name search\**
+- **Season long stats\**
+- **Individual player information\**
